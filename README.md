@@ -1,2 +1,2 @@
-# zakelmet.github.io
+# zakelmet.xyz
 Personal site
